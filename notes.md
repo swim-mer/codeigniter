@@ -45,6 +45,9 @@ Goals of CodeIgniter: Lightweight, flexible, and performant.
 - Page template (`application/views/pages/`)
 - `$data` keys are variables in view; `$data['name']` in controller = `$name` in view
 
+#### Model
+- Contain database queries
+
 #### Routing
 - Route rules added to `$route` array
 - Read from top to bottom; routes to first matching rule
