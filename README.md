@@ -4,7 +4,7 @@ Basic CodeIgniter documentation walkthrough and notes
 ## Prerequisites
 ### CodeIgniter 3
 - Download CodeIgniter 3: found [here](https://www.codeigniter.com/userguide3/installation/downloads.html).
-- Unzip the file using `unzip` command. 
+- Unzip the folder using `unzip` command. 
 
 ### PHP
 - Install: `sudo apt-get install php`
