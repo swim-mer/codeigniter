@@ -30,3 +30,22 @@ Goals of CodeIgniter: Lightweight, flexible, and performant.
 - Components are loaded and routines are executed on an as-needed basis
 ### Loose Coupling and Component Singularity
 - Components decoupled as much as possible, with each component containing a specific, singular purpose; high degree of modularity
+
+
+## News app tutorial from documentation
+### Static pages
+- Handled by controller
+- Deconstructed URL: `http://domain.com/controller-name/method-name/arguments`
+
+#### Controller
+- Referred to as super object in discussion, and `$this` in code
+- Contains `$data` array, which transports variables from controller to view
+
+#### View
+- Page template (`application/views/pages/`)
+- `$data` keys are variables in view; `$data['name']` in controller = `$name` in view
+
+#### Routing
+- Route rules added to `$route` array
+- Read from top to bottom; routes to first matching rule
+- Rule format: `controller-name/method-name/(optional - $argument)`
