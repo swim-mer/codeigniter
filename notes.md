@@ -22,3 +22,12 @@
 #### Controller
 - Intermediary between Model and View
 - loads resources to process HTTP request and generate web page
+
+## Design
+
+Goals of CodeIgniter: Lightweight, flexible, and performant.
+
+### Dynamic Instantiation
+- Components are loaded and routines are executed on an as-needed basis
+### Loose Coupling and Component Singularity
+- Components decoupled as much as possible, with each component containing a specific, singular purpose; high degree of modularity
