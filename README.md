@@ -3,7 +3,7 @@ Basic CodeIgniter documentation walkthrough and notes
 
 ## Prerequisites
 ### CodeIgniter 3
-- Download CodeIgniter 3: `https://codeload.github.com/bcit-ci/CodeIgniter/zip/3.1.11` (found (here)[https://www.codeigniter.com/userguide3/installation/downloads.html].
+- Download CodeIgniter 3: found [here](https://www.codeigniter.com/userguide3/installation/downloads.html).
 - Unzip the file using `unzip` command. 
 
 ### PHP
