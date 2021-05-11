@@ -10,8 +10,7 @@
 - - flow completed with view rendered, (cached - if enabled), and sent to browser
 
 ### Model-View-Controller
-#### Model 
-- --> not required in CodeIgniter
+#### Model (not required in CodeIgniter)
 - Representations of data structures
 - Contain functions to retrieve, insert, and update information in database
 
